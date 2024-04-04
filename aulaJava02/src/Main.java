@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
 //        Scanner keyboard = new Scanner(System.in);
-//        System.out.print("Digita teu nome pai: ");
+//        System.out.print("Digita teu nome: ");
 //        String nome = keyboard.nextLine();
 //        System.out.print("Nota 1: ");
 //        float nota1 = keyboard.nextFloat();
