@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExercicioHeranca/ExercicioHeranca.iml" filepath="$PROJECT_DIR$/ExercicioHeranca/ExercicioHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercícioRapidão/ExercícioRapidão.iml" filepath="$PROJECT_DIR$/ExercícioRapidão/ExercícioRapidão.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula06/aula06.iml" filepath="$PROJECT_DIR$/aula06/aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula08-exemplo-heranca/aula08-exemplo-heranca.iml" filepath="$PROJECT_DIR$/aula08-exemplo-heranca/aula08-exemplo-heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulaJava02/aulaJava02.iml" filepath="$PROJECT_DIR$/aulaJava02/aulaJava02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulaJava03-Array/aulaJava03-Array.iml" filepath="$PROJECT_DIR$/aulaJava03-Array/aulaJava03-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulaJava04/aulaJava04.iml" filepath="$PROJECT_DIR$/aulaJava04/aulaJava04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulaJava05/aulaJava05.iml" filepath="$PROJECT_DIR$/aulaJava05/aulaJava05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulaJava07/aulaJava07.iml" filepath="$PROJECT_DIR$/aulaJava07/aulaJava07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contaSimulator/contaSimulator.iml" filepath="$PROJECT_DIR$/contaSimulator/contaSimulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maisUmaAulaDeHeranca/maisUmaAulaDeHeranca.iml" filepath="$PROJECT_DIR$/maisUmaAulaDeHeranca/maisUmaAulaDeHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tempJava-v1.iml" filepath="$PROJECT_DIR$/.idea/tempJava-v1.iml" />
+    </modules>
+  </component>
+</project>
